@@ -22,12 +22,6 @@ dotflow remove -p PATH
 
 ## How to install
 
-### Macos
-
-```shell
-brew install arturgoms/dotflow/dotflow
-```
-
 ### Build by yourself
 
 1. Install go: https://go.dev/doc/install
