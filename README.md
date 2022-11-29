@@ -28,6 +28,8 @@ dotflow remove -p PATH
 2. Install the binary
 
 ```shell
+git clone https://github.com/arturgoms/dotflow.git
+cd dotflow
 go install
 ```
 
